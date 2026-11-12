@@ -1,4 +1,4 @@
-# Mediplus Health Platform – AWS EC2 Deployment
+# Mediplus Health Platform: AWS EC2 Deployment
 
 A multi-page medical hospital management website deployed on **Amazon EC2 using Ubuntu and Nginx**. This project demonstrates practical cloud deployment, Linux server administration, web server configuration, and the process of connecting a custom domain to a cloud-hosted application.
 
